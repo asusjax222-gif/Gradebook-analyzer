@@ -54,13 +54,13 @@ Welcome to the GradeBook Analyzer!
 How many students are in the class? 3
 
 Enter name for student 1: Alice
-Enter marks for Alice: 78
+Enter marks for Ram: 78
 
 Enter name for student 2: Bob
-Enter marks for Bob: 92
+Enter marks for Shyam: 92
 
 Enter name for student 3: Carol
-Enter marks for Carol: 56
+Enter marks for Luffy: 56
 
 Statistical Analysis:
 Average: 75.33
@@ -115,6 +115,7 @@ Output ss:-
 
 
 ![Output screen shot](<Screenshot 2025-11-06 191547.png>).
+
 
 
 
